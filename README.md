@@ -29,6 +29,6 @@ Currently we provide only simple PHP adapter - `RateMediaAdapter.php`.
 
 ```
 
-This function will generate a special <A> tag with the correct 'href' attribute.
+This function will generate a special _A_ tag with the correct 'href' attribute.
 Also, it will append to URL a special parameter - `piwik_visitor_id`, if there is correct setup of piwik on your site. You may also need jQuery working on your site.
 
